@@ -1,0 +1,18 @@
+a{
+    font-size:larger;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background-image:url(WhatsApp\ Image\ 2023-09-09\ at\ 17.54.30.jpg);
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-color:white;
+    background-clip: ;
+}
+.woi{
+    align-content: center;
+    font-family: 'lucida sans';
+    position: relative;
+    background-clip:color:blue;
+    font-size:1vw;
+}
